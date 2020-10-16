@@ -5,8 +5,8 @@
 
 
 <p align="center">
-    <a href="#-grupo">Grupo</a>
-  <a href="#-projeto">Projeto</a>
+    <a href="#-grupo">Grupo</a> |
+  <a href="#-projeto">Projeto</a> 
 <!--  <a href="#-layout">Layout</a>
   <a href="#memo-licença">Licença</a> -->
 </p>

@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="IFILES" title="IFILES" src="./images" />
+    <p> IFILES </p>
 </h1>
  
  Charles Bruno Ferreira de Morais Junior e Lorena Teixeira de Almeida.

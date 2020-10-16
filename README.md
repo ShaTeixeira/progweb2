@@ -12,8 +12,8 @@
 </p>
     
   ## Grupo: 
-
-    <h3> Charles Bruno Ferreira de Morais Junior e Lorena Teixeira de Almeida :) </h3>
+    
+    Charles Bruno Ferreira de Morais Junior e Lorena Teixeira de Almeida :) 
   
   ## Descrição 
     

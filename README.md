@@ -2,7 +2,7 @@
     <p> IFILES </p>
 </h1>
 
-
+ ## Trabalho Paralizado
 
 <p align="center">
     <a href="#-grupo">Grupo</a> |
@@ -27,7 +27,6 @@
     ao ROD e o Conselho de Ética com mais facilidade, link do acadêmico, conhecimentos sobre a assistência estudantil, 
     contato com os professores e calendário acadêmico. 
     
-  ## Trabalho Paralizado
   <!-- ## Tecnologias -->
 <!-- - [HTML]()
 - [CSS]()

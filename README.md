@@ -2,22 +2,13 @@
     <p> IFILES </p>
 </h1>
 
- ## Trabalho Paralizado
+## Trabalho Paralizado
 
-<p align="center">
-    <a href="#-grupo">Grupo</a> |
-  <a href="#-descricao">Projeto</a> 
-<!--  <a href="#-layout">Layout</a>
-  <a href="#memo-licença">Licença</a> -->
-</p>
-    
-  ## Grupo: 
-    
-    Charles Bruno Ferreira de Morais Junior e Lorena Teixeira de Almeida :) 
+  
+## Grupo: Charles Bruno Ferreira de Morais Junior e Lorena Teixeira de Almeida :) 
   
   ## Descrição 
-    
-    IFILES é o projeto a ser desenvolvido por esse grupo. Seu principal propósito é apresentar um guia prático 
+   IFILES é o projeto a ser desenvolvido por esse grupo. Seu principal propósito é apresentar um guia prático 
     e informativo do nosso campus para visitantes e até mesmo alunos (principalmente calouros) e professores. 
     Todos os anos/semestres a instituição recebe novos discentes que precisam se adaptar ao novo ambiente e, 
     falando por experiência própria dos integrantes desse projeto, toda a informação é passada de forma apressada 

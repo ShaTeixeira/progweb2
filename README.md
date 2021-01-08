@@ -5,7 +5,7 @@
 ## Trabalho Paralizado
 
   
-## Grupo: Charles Bruno Ferreira de Morais Junior, Lorena Teixeira de Almeida e Shayane Teixeira da Cruz:) 
+## Grupo: Charles Bruno Ferreira de Morais Junior, Lorena Teixeira de Almeida e Shayane Teixeira da Cruz
   
   ## Descrição 
    IFILES é o projeto a ser desenvolvido por esse grupo. Seu principal propósito é apresentar um guia prático 

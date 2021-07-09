@@ -1,32 +1,13 @@
 <h1 align="center">
-    <p> IFILES </p>
+    <p> PLATAFORMA DE DEBATES </p>
 </h1>
 
-## MUDANÇA DE TRABALHO
 
-  
-## Grupo: Charles Bruno Ferreira de Morais Junior, Lorena Teixeira de Almeida e Shayane Teixeira da Cruz
-  
-  ## Descrição 
-   IFILES é o projeto a ser desenvolvido por esse grupo. Seu principal propósito é apresentar um guia prático 
-   e informativo do nosso campus para visitantes e até mesmo alunos (principalmente calouros) e professores. 
-   Todos os anos/semestres a instituição recebe novos discentes que precisam se adaptar ao novo ambiente e, 
-   falando por experiência própria dos integrantes desse projeto, toda a informação é passada de forma apressada 
-   e acaba por confundir quem a demanda. A principal funcionalidade do projeto é o mapa, que acompanha os pontos 
-   específicos  da instituição e detalhes, FAQ, que abrange perguntas dos docentes e discentes do Campus, outros 
-   recursos como informações  do cartão GVBus, marcar consulta com a psicóloga, locais bons para estudar, acesso 
-   ao ROD e o Conselho de Ética com mais facilidade, link do acadêmico, conhecimentos sobre a assistência estudantil, 
-   contato com os professores e calendário acadêmico. 
+## Grupo
     
-  <!-- ## Tecnologias -->
-<!-- - [HTML]()
-- [CSS]()
-- [JavaScript]()
-- [SQLite]()
-- [PHP]()
-- [Node.js]() -->
-
-  <!-- ## Layout -->
+    Charles Bruno Ferreira de Morais Junior, Lorena Teixeira de Almeida e Shayane Teixeira da Cruz
   
-  <!-- ## Licença --> 
+## Descrição (Minimundo)
 
+   Com um volume cada vez maior de informações no mundo atual, é importante que as pessoas estejam preparadas para processá-las e argumentar sobre. Nosso projeto procura prover   um sistema com um espaço de discussão para os usuários sobre um tema escolhido por uma maioria de votos e todas as informações acerca do assunto será catalogada para direcionar o debate. É importante um perfil para a identificação de cada usuário e que seja personalizável para o bem-estar dele, ainda para reconhecer e punir determinados usuários que infrinjam as regras de boa convivência. Ainda, um esquema de emblemas e conquistas será implementado para estimular a participação da comunidade.
+ 
